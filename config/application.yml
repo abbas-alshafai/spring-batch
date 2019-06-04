@@ -1,0 +1,5 @@
+async:
+  coreSize: 8
+  maxSize: 8
+  queueCapacity: 20
+  threadNamePrefix: demoThread-
